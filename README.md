@@ -1,8 +1,10 @@
 # Debopriya Das | Professional Resume
 This repository hosts my latest resume and professional profile.
 I am an AWS-Certified Data Engineer, SAP Analytics Specialist (SAC/S4HANA), Machine Learning Practitioner, and Multi-Published Researcher, actively seeking full-time opportunities in Data Engineering, Data Science, Analytics, and Business Intelligence roles.
-📄 Download My Resume
+
+# Download My Resume
 Click below to view the most updated version:
+
 Debopriya_Das_Mastermind_1.pdf
 
 # Professional Summary
