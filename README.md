@@ -5,7 +5,7 @@ I am an AWS-Certified Data Engineer, SAP Analytics Specialist (SAC/S4HANA), Mach
 # Download My Resume
 Click below to view the most updated version:
 
-Debopriya_Das_Mastermind_1.pdf
+[Debopriya_Das_Mastermind_1.pdf](https://github.com/priyasilent/portfolio_resume/blob/main/Debopriya_Das_Mastermind_1.pdf)
 
 # Professional Summary
 I bring a strong combination of data engineering, analytics, and applied machine learning experience, with a proven ability to build scalable pipelines, automate workflows, and deliver insights that enhance business decision-making.
